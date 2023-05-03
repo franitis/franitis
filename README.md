@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Ruby on rails**
 
+- 🔭 I’m currently working on [Boston Celtics Roster 22/23](https://github.com/franitis/boston_celtics)
+
 - 📫 How to reach me **francisco.lago@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
